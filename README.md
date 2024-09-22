@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*qD2KtEUk-XAJXoX4Z4oxNg.jpeg)
+[![MasterHead]()
 <h1 align="center">Hi 👋, I'm Kadir Fatih Köse</h1>
 <h3 align="center">Welcome To My Profile</h3>
 
