@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kadir Fatih Köse</h1>
+<h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">Welcome To My Profile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadirfatihk&label=Profile%20views&color=0e75b6&style=flat" alt="kadirfatihk" /> </p>
