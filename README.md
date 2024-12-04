@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **.NET**
 
-- 💬 Ask me about **.NET, C#**
+- 💬 Ask me about **.NET**
 
-- 📫 How to reach me **kadir.fatih96@gmail.com**
+- 📫 How to reach me **kfatihkose54@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
