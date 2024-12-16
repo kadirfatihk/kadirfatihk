@@ -1,11 +1,5 @@
 # Hi. My name is Fatih
 
-<img src="https://remote-tools-images.s3.amazonaws.com/programmer-memes/5.jpg"/>
-
-#
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gorbadil&hide=html&layout=compact&theme=merko&hide_border=true"/>
-
 # Contact Me
 
 - :email: <span style="font-weight: bolder">Email</span> : kfatihkose54@gmail.com
