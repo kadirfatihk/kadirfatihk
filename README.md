@@ -1,71 +1,19 @@
-<div align="center">
- <a href="https://github.com/zeynep-png">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Zeynep+Tuana+Çakır+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
- </a>
-</div>
+<h1 align="center">Hi 👋, I'm Kadir Fatih Köse</h1>
+<h3 align="center">Welcome To My Profile</h3>
 
-<h3 align="left">&nbsp; A passionate backend developer from Türkiye</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kadirfatihk&label=Profile%20views&color=0e75b6&style=flat" alt="kadirfatihk" /> </p>
 
-- 🔭 I’m currently working on **.Net**
+- 🌱 I’m currently learning **.NET, JavaScript**
 
-- 💬 Ask me about **.Net**
+# Contact Me
 
-- 📫 How to reach me **zeynepcakirtuana@gmail.com**
-
- 
-
-<!--
-<details>
-  <summary>:zap: GitHub Stats</summary> 
--->
-# 💻 Languages and Tools:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+- :email: <span style="font-weight: bolder">Email</span> : kfatihkose54@gmail.com
+- :link: <span style="font-weight: bolder">Linkedin</span> : https://www.linkedin.com/in/kadirfatihkose/
 
 
+# Languages and Tools
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="54" height="54"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="54" height="54"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="54" height="54"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="54" height="54"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="54" height="54"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="54" height="54"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadirfatihk&show_icons=true&locale=en&layout=compact" alt="kadirfatihk" /></p>
 
-# Github Stats
-
- <br />
- 
-  <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/zeynep-png/zeynep-png/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeynep-png&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="zeynep-png" />
-    <img heigth="160" width="182" src="https://github.com/zeynep-png/zeynep-png/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
-  </a>
-</p>
-
-  
-<br />
-
-
- 
- <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/zeynep-png/zeynep-png/blob/main/img/Bird%20Wing%20Left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeynep-png&theme=material-palenight&hide_border=false" alt="zeynep-png" width="55%" />
-    <img heigth="160" width="182" src="https://github.com/zeynep-png/zeynep-png/blob/main/img/Bird%20Wing%20Right.png">
-  </a>
-</p>
- 
-
- 
- <br />
- 
-  
-  
-  <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/zeynep-png/zeynep-png/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynep-png&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="zeynep-png" />
-    <img heigth="160" width="182" src="https://github.com/zeynep-png/zeynep-png/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
-  </a>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadirfatihk&show_icons=true&locale=en" alt="kadirfatihk" /></p>
